@@ -19,3 +19,4 @@ Thumbs.db
 
 # NPM packages
 package-lock.json
+.idea
