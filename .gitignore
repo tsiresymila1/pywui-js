@@ -1,2 +1,21 @@
-node_modules
-dist
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# Build output
+/dist
+/build
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NPM packages
+package-lock.json
